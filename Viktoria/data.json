@@ -1,0 +1,48 @@
+let data =
+    `
+[
+{
+    "bouquetteName": "The Ellington",
+    "image": "bouquette1.png",
+    "description": "Hand Delivery",
+    "price":50,
+    "qtty":1
+},
+{
+    "bouquetteName": "The Buttercream",
+    "image": "bouquette2.png",
+    "description": "Hand Delivery",
+    "price":30,
+    "qtty":1
+},
+{
+    "bouquetteName": "The Jarding",
+    "image": "bouquette3.png",
+    "description": "Hand Delivery",
+    "price":40,
+    "qtty":1
+},
+{
+    "bouquetteName": "The Birthday Party",
+    "image": "bouquette4.png",
+    "description": "Hand Delivery",
+    "price":45,
+    "qtty":1
+},
+{
+    "bouquetteName": "The Crispin",
+    "image": "bouquette5.png",
+    "description": "Hand Delivery",
+    "price":25,
+    "qtty":1
+},
+{
+    "bouquetteName": "The Autumnal Palette",
+    "image": "bouquette6.png",
+    "description": "Hand Delivery",
+    "price":65,
+    "qtty":1
+}
+
+]
+`
